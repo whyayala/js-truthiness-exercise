@@ -1,0 +1,17 @@
+{
+  "name": "truthiness",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --run"
+  },
+  "author": "Jacob Ayala <jayala@rise8.us>",
+  "license": "ISC",
+  "dependencies": {
+    "vitest": "^1.2.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
+}
